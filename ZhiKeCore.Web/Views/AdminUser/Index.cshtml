@@ -1,0 +1,42 @@
+﻿@model List<ZhiKeCore.Models.AdminUser>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<div class="container main-wrapper">
+    <div class="row">
+
+        <div class="col-md-12 text-center">
+            <div class="page-header">
+                <h2 class="page-title">用户列表</h2>
+                <hr>
+            </div>
+        </div>
+        <div class="col-md-12 ">
+            <div class="page-wrapper">
+                <div class="categary-wrapper">
+                    <div class="categary-content" itemprop="articleBody">
+                        <div class="categary-list">
+                            @foreach (ZhiKeCore.Models.AdminUser item in this.Model)
+                            {
+                                <div class="col-md-3 categary-item-wrapper">
+                                    <div class="categary-item">
+                                        <a class="categary-item-link" href="/Category/Detail/@item.Id"> @item.Name ·  (@item.Email)</a>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- 用户自定义脚本内容 -->
+
+    </div>
+</div>
+
+

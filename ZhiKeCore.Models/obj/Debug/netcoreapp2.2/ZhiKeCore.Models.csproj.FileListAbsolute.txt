@@ -1,0 +1,11 @@
+C:\Projects\ZhiKeCore\ZhiKeCore\ZhiKeCore.Models\bin\Debug\netcoreapp2.2\ZhiKeCore.Models.deps.json
+C:\Projects\ZhiKeCore\ZhiKeCore\ZhiKeCore.Models\bin\Debug\netcoreapp2.2\ZhiKeCore.Models.runtimeconfig.json
+C:\Projects\ZhiKeCore\ZhiKeCore\ZhiKeCore.Models\bin\Debug\netcoreapp2.2\ZhiKeCore.Models.runtimeconfig.dev.json
+C:\Projects\ZhiKeCore\ZhiKeCore\ZhiKeCore.Models\bin\Debug\netcoreapp2.2\ZhiKeCore.Models.dll
+C:\Projects\ZhiKeCore\ZhiKeCore\ZhiKeCore.Models\bin\Debug\netcoreapp2.2\ZhiKeCore.Models.pdb
+C:\Projects\ZhiKeCore\ZhiKeCore\ZhiKeCore.Models\obj\Debug\netcoreapp2.2\ZhiKeCore.Models.csprojAssemblyReference.cache
+C:\Projects\ZhiKeCore\ZhiKeCore\ZhiKeCore.Models\obj\Debug\netcoreapp2.2\ZhiKeCore.Models.csproj.CoreCompileInputs.cache
+C:\Projects\ZhiKeCore\ZhiKeCore\ZhiKeCore.Models\obj\Debug\netcoreapp2.2\ZhiKeCore.Models.AssemblyInfoInputs.cache
+C:\Projects\ZhiKeCore\ZhiKeCore\ZhiKeCore.Models\obj\Debug\netcoreapp2.2\ZhiKeCore.Models.AssemblyInfo.cs
+C:\Projects\ZhiKeCore\ZhiKeCore\ZhiKeCore.Models\obj\Debug\netcoreapp2.2\ZhiKeCore.Models.dll
+C:\Projects\ZhiKeCore\ZhiKeCore\ZhiKeCore.Models\obj\Debug\netcoreapp2.2\ZhiKeCore.Models.pdb

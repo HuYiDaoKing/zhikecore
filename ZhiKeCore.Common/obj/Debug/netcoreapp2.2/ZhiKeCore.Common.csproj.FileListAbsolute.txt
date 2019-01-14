@@ -1,0 +1,8 @@
+C:\Projects\ZhiKeCore\ZhiKeCore\ZhiKeCore.Common\bin\Debug\netcoreapp2.2\ZhiKeCore.Common.deps.json
+C:\Projects\ZhiKeCore\ZhiKeCore\ZhiKeCore.Common\bin\Debug\netcoreapp2.2\ZhiKeCore.Common.dll
+C:\Projects\ZhiKeCore\ZhiKeCore\ZhiKeCore.Common\bin\Debug\netcoreapp2.2\ZhiKeCore.Common.pdb
+C:\Projects\ZhiKeCore\ZhiKeCore\ZhiKeCore.Common\obj\Debug\netcoreapp2.2\ZhiKeCore.Common.csproj.CoreCompileInputs.cache
+C:\Projects\ZhiKeCore\ZhiKeCore\ZhiKeCore.Common\obj\Debug\netcoreapp2.2\ZhiKeCore.Common.AssemblyInfoInputs.cache
+C:\Projects\ZhiKeCore\ZhiKeCore\ZhiKeCore.Common\obj\Debug\netcoreapp2.2\ZhiKeCore.Common.AssemblyInfo.cs
+C:\Projects\ZhiKeCore\ZhiKeCore\ZhiKeCore.Common\obj\Debug\netcoreapp2.2\ZhiKeCore.Common.dll
+C:\Projects\ZhiKeCore\ZhiKeCore\ZhiKeCore.Common\obj\Debug\netcoreapp2.2\ZhiKeCore.Common.pdb
