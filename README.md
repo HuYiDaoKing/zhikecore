@@ -1,2 +1,2 @@
 # zhikecore
-study usage of zhikecore
+study usage of dotnet core,ef core.
